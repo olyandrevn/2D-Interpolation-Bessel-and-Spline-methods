@@ -1,2 +1,2 @@
 # 2D-Interpolation-Bessel-and-Spline-methods
-Interpolation methods for 2D function with Qt visualization.
+Interpolation methods for 2D function with Qt visualization. There are 2 implemeted methods: Bessel interpolation method and Cubic Spline interpolation method.
