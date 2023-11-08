@@ -9,8 +9,8 @@
 This Qt-based application renders 2D visualizations of mathematical functions, employing both Bessel and spline interpolations for creating smooth curves. It utilizes the capabilities of Qt for drawing and offers an interactive interface for users to engage with and adjust mathematical plots in real-time.
 
 
-<img src="img/Screenshot from 2023-11-08 14-34-43.png" width="295"/> <img src="img/Screenshot from 2023-11-08 14-35-43.png" width="295"/> 
-<img src="img/Screenshot from 2023-11-08 14-37-49.png" width="295"/> <img src="img/Screenshot from 2023-11-08 14-38-03.png" width="295"/> 
+<img src="img/Screenshot from 2023-11-08 14-34-43.png" width="595"/> <img src="img/Screenshot from 2023-11-08 14-35-43.png" width="595"/> 
+<img src="img/Screenshot from 2023-11-08 14-37-49.png" width="595"/> <img src="img/Screenshot from 2023-11-08 14-38-03.png" width="595"/> 
 
 
 ## Key Features
