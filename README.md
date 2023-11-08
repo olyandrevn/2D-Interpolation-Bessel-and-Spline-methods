@@ -5,8 +5,8 @@
 ## Overview
 A C++ library for performing Bessel and spline interpolations, equipped with a Qt-based GUI for visualization and manipulation of data points.
 
-<img src="img/Screenshot from 2023-11-08 14-34-43.png" width="395"/> <img src="img/Screenshot from 2023-11-08 14-35-43.png" width="395"/> 
-<img src="img/Screenshot from 2023-11-08 14-37-49.png" width="395"/> <img src="img/Screenshot from 2023-11-08 14-38-03.png" width="395"/> 
+<img src="img/Screenshot from 2023-11-08 14-34-43.png" width="595"/> <img src="img/Screenshot from 2023-11-08 14-35-43.png" width="595"/> 
+<img src="img/Screenshot from 2023-11-08 14-37-49.png" width="595"/> <img src="img/Screenshot from 2023-11-08 14-38-03.png" width="595"/> 
 
 ## Key Features
 - **Interpolation Methods**: Implements Bessel and cubic spline interpolation for data estimation.
