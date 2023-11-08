@@ -6,21 +6,24 @@
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
 ## Overview
-A C++ library for performing Bessel and spline interpolations, equipped with a Qt-based GUI for visualization and manipulation of data points.
+This Qt-based application renders 2D visualizations of mathematical functions, employing both Bessel and spline interpolations for creating smooth curves. It utilizes the capabilities of Qt for drawing and offers an interactive interface for users to engage with and adjust mathematical plots in real-time.
 
-<img src="img/Screenshot from 2023-11-08 14-34-43.png" width="595"/> <img src="img/Screenshot from 2023-11-08 14-35-43.png" width="595"/> 
-<img src="img/Screenshot from 2023-11-08 14-37-49.png" width="595"/> <img src="img/Screenshot from 2023-11-08 14-38-03.png" width="595"/> 
+
+<img src="img/Screenshot from 2023-11-08 14-34-43.png" width="295"/> <img src="img/Screenshot from 2023-11-08 14-35-43.png" width="295"/> 
+<img src="img/Screenshot from 2023-11-08 14-37-49.png" width="295"/> <img src="img/Screenshot from 2023-11-08 14-38-03.png" width="295"/> 
+
 
 ## Key Features
-- **Interpolation Methods**: Implements Bessel and cubic spline interpolation for data estimation.
-- **Function Analysis**: Evaluates mathematical functions and derivatives for precise interpolation.
-- **Graphical User Interface**: Features interactive visualization of data points and interpolation results.
-- **Adaptive Parameters**: Allows dynamic adjustment of interval range and point density.
-- **Error Visualization**: Displays discrepancies between interpolated values and actual function data.
-- **Command-Line Interface**: Supports initial parameter configuration via CLI.
+- **2D Rendering**: Visualizes mathematical functions in a 2D space.
+- **Dynamic Visualization**: Change the rendered functions and methods via GUI controls.
+- **User Interface**: Utilizes Qt's `QAction`, `QMenuBar`, and `QToolBar` for in-app options.
+- **Scene Customization**: Adjust parameters such as function type, disturbance levels, number of points, scale.
+- **Command-Line Arguments**: Supports initialization parameters through the command line for advanced users.
 
 ## Supported Functions
-The `func` function can evaluate the following mathematical expressions based on the provided `func_id`:
+
+The application can visualize the following mathematical functions in 3D space, selectable by the `func_id` parameter:
+
 - `func_id = 0`: `f(x) = 1`.
 - `func_id = 1`: `f(x) = x`.
 - `func_id = 2`: `f(x) = x^2`.
