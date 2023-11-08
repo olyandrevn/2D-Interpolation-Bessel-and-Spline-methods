@@ -39,7 +39,15 @@ git clone git@github.com:olyandrevn/2D-Interpolation-Bessel-and-Spline-methods.g
 ./2D_interpolation [a] [b] [n] [func_id]
 ```
 
-## Run tests
+```[a] [b]```: interval for interpolation
+
+```[n]```: number of points
+
+```[func_id]```: function identifier for selection
+
+
+
+## Run on default parameters
 
 ```sh
 ./2D_interpolation -10 10 5 0
