@@ -18,13 +18,13 @@ A C++ library for performing Bessel and spline interpolations, equipped with a Q
 
 ## Supported Functions
 The `func` function can evaluate the following mathematical expressions based on the provided `func_id`:
-- `func_id = 0`: Constant function `f(x) = 1`.
-- `func_id = 1`: Linear function `f(x) = x`.
-- `func_id = 2`: Quadratic function `f(x) = x^2`.
-- `func_id = 3`: Cubic function `f(x) = x^3`.
-- `func_id = 4`: Quartic function `f(x) = x^4`.
-- `func_id = 5`: Exponential function `f(x) = exp(x)`.
-- `func_id = 6`: Rational function `f(x) = 1 / (25 * x^2 + 1)`.
+- `func_id = 0`: `f(x) = 1`.
+- `func_id = 1`: `f(x) = x`.
+- `func_id = 2`: `f(x) = x^2`.
+- `func_id = 3`: `f(x) = x^3`.
+- `func_id = 4`: `f(x) = x^4`.
+- `func_id = 5`: `f(x) = exp(x)`.
+- `func_id = 6`: `f(x) = 1 / (25 * x^2 + 1)`.
 
   
 ## Install
