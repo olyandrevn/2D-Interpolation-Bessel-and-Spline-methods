@@ -42,6 +42,8 @@ git clone git@github.com:olyandrevn/2D-Interpolation-Bessel-and-Spline-methods.g
 ## Usage
 
 ```sh
+qmake
+make
 ./2D_interpolation [a] [b] [n] [func_id]
 ```
 
