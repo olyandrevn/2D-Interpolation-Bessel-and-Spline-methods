@@ -60,10 +60,3 @@ make
 ```sh
 ./2D_interpolation -10 10 5 0
 ```
-
-## Author
-
-👤 **Olga Kolomyttseva**
-
-* Github: [@olyandrevn](https://github.com/olyandrevn)
-* LinkedIn: [@olyandrevn](https://linkedin.com/in/olyandrevn)
